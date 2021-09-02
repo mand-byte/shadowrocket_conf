@@ -1,6 +1,6 @@
 #!/bin/bash
 # xray一键安装脚本
-# Author: hijk<https://hijk.art>
+# bash <(curl -sL https://raw.githubusercontent.com/jonyhubber/shadowrocket_conf/master/xray.sh)
 
 
 RED="\033[31m"      # Error message
